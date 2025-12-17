@@ -50,6 +50,8 @@ The Super-k piecewise classifier demonstrates:
 - more interpretable local decision boundaries
 - stable training compared to a single global model
 
+![Super-k decision boundary](assets/images/1.png)
+
 ## Technologies
 - Python 3.x
 - NumPy
